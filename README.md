@@ -1,4 +1,4 @@
-# flex-2018-summer-cleveland
+# flex-2018-fall-columbus
 
 ## Code Jam 1
 
