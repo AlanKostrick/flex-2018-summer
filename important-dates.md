@@ -6,6 +6,9 @@ This repository contains useful information for the bootcamp.
 
 |Happening|When|
 |---|---|
+|Module 2 Released|August 27|
+|Fortune Teller Due|August 30|
+|On Campus Tutoring|September 4|
 |Code Jam 2|September 8-9|
 
 
