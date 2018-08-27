@@ -28,6 +28,8 @@
 ### Code Jam 1 Resources
 - [Git Bash commands cheat sheet (work in progress)](https://wecancodeit.github.io/java-resources/bash/)
 - [Coding Bat Practice](http://codingbat.com/java/Warmup-1)
+- [Coding Dojo Kata Catalogue](http://codingdojo.org/KataCatalogue/)
+- [CodeKata](http://codekata.com/)
 
 
 ## Code Jam 2
