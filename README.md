@@ -36,19 +36,17 @@
 
 ### Day 1
 - FortuneTeller review
-- CodingBat Warmup 2
-- Atm Review
+- More on Constructors
+- Atm extensions/extra practice (BigDecimal and Encapsulation)
+- Career Services with Marisa
+- Dedicated time to work on Module 2 project
 
 ### Day 2
-- Module 2 project
+- Intro to collections (ArrayLists)
+- Test driving the Shopping Cart Application
+- Dedicate time to work on Module 2 project
 
 ### Code Jam 2 Resources
 - [CodingBat Warmup 2](http://codingbat.com/java/Warmup-2)
 
-## Code Jam 3
 
-### Day 1
-- Exploring Inheritance with the Hospital project
-
-### Day 2
-- Module 3 project
