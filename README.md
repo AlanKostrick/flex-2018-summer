@@ -49,4 +49,17 @@
 ### Code Jam 2 Resources
 - [CodingBat Warmup 2](http://codingbat.com/java/Warmup-2)
 
+## Code Jam 3
+
+### Day 1
+- Intro to Inheritance and the Hospital App
+- Career Services with Marisa
+- Iterables
+- Virtual Pets Amok!
+
+### Day 2
+- Intro to Spring
+- Virtual Pets Amok!
+-Photos!!!!!
+
 
