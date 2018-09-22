@@ -60,6 +60,7 @@
 ### Day 2
 - Intro to Spring
 - Virtual Pets Amok!
--Photos!!!!!
+- Photos!!!!!
 
+### Code Jam 3 Resources
 
