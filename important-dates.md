@@ -6,12 +6,13 @@ This repository contains useful information for the bootcamp.
 
 |Happening|When|
 |---|---|
-|Code Jam 2|September 8-9|
-|On Campus Tutoring|September 11|
-|Virtual Pet Due|September 12|
-|On Campus Tutoring|September 18|
-|Virtual Pet Shelter Due|September 19|
 |Code Jam 3|September 22-23|
+|Express/Apex Event|Septemper 25|
+|Virtual Pets Amok Due|September 26|
+|On Campus Tutoring|October 2|
+|Review Site Due|October 3|
+|Code Jam 4|October 8-9|
+
 
 
 
