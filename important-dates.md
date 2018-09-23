@@ -11,7 +11,7 @@ This repository contains useful information for the bootcamp.
 |Virtual Pets Amok Due|September 26|
 |On Campus Tutoring|October 2|
 |Review Site Due|October 3|
-|Code Jam 4|October 8-9|
+|Code Jam 4|October 6-7|
 
 
 
