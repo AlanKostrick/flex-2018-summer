@@ -77,8 +77,10 @@
   - [Customized Exceptions](https://www.baeldung.com/spring-response-status-exception)
 - Building a webpage using Grid and Flexbox
   - [Code Pen](https://codepen.io/)
+  - [WCCI Grid Slides](https://wecancodeit.github.io/java-slides/frontend/css-grid/#/)
   - [W3 Schools](https://www.w3schools.com/)
   - [Shadow Box Generator](https://www.cssmatic.com/box-shadow)
+  - [Text Shadow Generator](https://css3gen.com/text-shadow/)
   - [Google Fonts](https://fonts.google.com/)
   - [Unsplash](https://unsplash.com/)
 
