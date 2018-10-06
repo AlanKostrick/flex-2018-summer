@@ -64,3 +64,22 @@
 
 ### Code Jam 3 Resources
 
+## Code Jam 4
+
+### Day 1
+- Student MVC Review
+  - id
+  -name
+  -gitHubUrl
+- Spring Documentation utilized
+  - [Spring Testing Guide](https://spring.io/guides/gs/testing-web/)
+  - [Testing the MVC](https://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-spring-mvc-controllers-normal-controllers/)
+  - [Customized Exceptions](https://www.baeldung.com/spring-response-status-exception)
+- Building a webpage using Grid and Flexbox
+  - [Code Pen](https://codepen.io/)
+  - [W3 Schools](https://www.w3schools.com/)
+  - [Shadow Box Generator](https://www.cssmatic.com/box-shadow)
+  - [Google Fonts](https://fonts.google.com/)
+  - [Unsplash](https://unsplash.com/)
+
+
