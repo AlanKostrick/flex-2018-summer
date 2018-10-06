@@ -62,7 +62,6 @@
 - Virtual Pets Amok!
 - Photos!!!!!
 
-### Code Jam 3 Resources
 
 ## Code Jam 4
 
