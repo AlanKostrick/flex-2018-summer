@@ -6,12 +6,14 @@ This repository contains useful information for the bootcamp.
 
 |Happening|When|
 |---|---|
-|Code Jam 3|September 22-23|
-|Express/Apex Event|September 25|
-|Virtual Pets Amok Due|September 26|
-|On Campus Tutoring|October 2|
-|Review Site Due|October 3|
 |Code Jam 4|October 6-7|
+|Module 7 Released|October 8|
+|Tuesday tutoring on campus|October 9|
+|Portfolio Due|October 10|
+|Module 8 Released|October 15|
+|Tuesday tutoring on campus|October 16|
+|Code Jam 5|October 20-21|
+|Module 7 and 8 Projects Due|October 24|
 
 
 
