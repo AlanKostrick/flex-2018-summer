@@ -6,14 +6,11 @@ This repository contains useful information for the bootcamp.
 
 |Happening|When|
 |---|---|
-|Code Jam 4|October 6-7|
-|Module 7 Released|October 8|
-|Tuesday tutoring on campus|October 9|
-|Portfolio Due|October 10|
-|Module 8 Released|October 15|
-|Tuesday tutoring on campus|October 16|
 |Code Jam 5|October 20-21|
+|Module 9 Released|October 22|
 |Module 7 and 8 Projects Due|October 24|
+|Module 9 Project Due|Nov 2|
+|Code Jam 6 and Final Project Kickoff!|Nov 3-4|
 
 
 
