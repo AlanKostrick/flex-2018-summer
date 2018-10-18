@@ -6,6 +6,9 @@ If a testing environment is complicated to set up, developers will look at it as
 
 Jest is used by Facebook to test their React applications.
 
+## Installing VS Code
+- [Install](https://code.visualstudio.com/)
+- Verify installation: `code -v`
 
 ## Installing Node
 
