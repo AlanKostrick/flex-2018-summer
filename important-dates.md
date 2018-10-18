@@ -9,8 +9,8 @@ This repository contains useful information for the bootcamp.
 |Code Jam 5|October 20-21|
 |Module 9 Released|October 22|
 |Module 7 and 8 Projects Due|October 24|
-|Module 9 Project Due|Nov 2|
-|Code Jam 6 and Final Project Kickoff!|Nov 3-4|
+|Module 9 Project Due|November 2|
+|Code Jam 6 and Final Project Kickoff!|November 3-4|
 
 
 
