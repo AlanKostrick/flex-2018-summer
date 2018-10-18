@@ -26,7 +26,7 @@ Jest is used by Facebook to test their React applications.
 
 ## Install Axios (to use instead of fetch)
 
-- Useful for Asunchronous data
+- Useful for Asynchronous data
 - `npm i axios`
 
 ## Create a basic function file to test
