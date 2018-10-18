@@ -85,7 +85,7 @@
 
 ## Code Jam 5
 - Intro to API's
-- Using the HAL Browser(https://www.baeldung.com/spring-rest-hal)
+- [Using the HAL Browser](https://www.baeldung.com/spring-rest-hal)
 - SWAPI
 - Testing API interactions with Jest 
 
