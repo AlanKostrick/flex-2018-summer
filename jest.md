@@ -52,3 +52,24 @@ test('Adds 2 + 2 to equal 4', () =>{
 
 ### To run a test in your command line
 - `npm test`
+
+## Let's test the Star Wars API
+
+In `functions.js` add this function inside of `const functions`
+```
+fetchLuke: () => axios.get('https://swapi.co/api/people/1')
+	.then(res => res.data)
+	.catch(error => 'error')
+```
+
+In `functions.test.js`
+```
+test('User fetched name should be Luke Skywalker', () => {
+	expect.assertions(1);
+	return functions.fetchLuke()
+	.then(data => {
+		expect(data.name).toEqual('Luke Skywalker');
+	})
+});
+
+
