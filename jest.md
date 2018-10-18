@@ -33,8 +33,8 @@ Jest is used by Facebook to test their React applications.
 
 - `functions.js` 
   - Place this code at the top of the file: `const axios = require('axios');`
-  - Place this code at the bottom of the file: `module.exports:functions`
-- `functions.test.js` and place this code inside of the file: `const functions=require('./functions);`
+  - Place this code at the bottom of the file: `module.exports = functions`
+- `functions.test.js` and place this code inside of the file: `const functions = require('./functions);`
 
 ## Let's run a basic test to make sure we are wired up 
 
