@@ -83,4 +83,9 @@
   - [Google Fonts](https://fonts.google.com/)
   - [Unsplash](https://unsplash.com/)
 
+## Code Jam 5
+- Intro to API's
+- Using the HAL Browser(https://www.baeldung.com/spring-rest-hal)
+- SWAPI
+- Testing API interactions with Jest 
 
