@@ -74,5 +74,9 @@ test('User fetched name should be Luke Skywalker', () => {
 		expect(data.name).toEqual('Luke Skywalker');
 	})
 });
+```
 
+## Now go out there and Jest Test your own API
+- NOTE!: You will need to enable CORS by simply annotating your controller class with `@CrossOrigin`
+- [CORS Documentation](https://docs.spring.io/spring/docs/4.2.x/spring-framework-reference/html/cors.html)
 
