@@ -22,7 +22,7 @@ Jest is used by Facebook to test their React applications.
 - `cd jest-api-demo`
 - `npm init -y` will create a package.json file
 - `npm i -D jest` installs the Jest Dependency
-- open up the package.json file and where it says testscript write jest like this: `testscript: "jest"`
+- open up the package.json file and where it says scripts for test write jest like this: `test: "jest"`
 
 ## Install Axios (to use instead of fetch)
 
