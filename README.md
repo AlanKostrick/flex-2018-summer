@@ -85,9 +85,13 @@
 
 ## Code Jam 5
 
-### Day 1
 - Intro to API's
 - [Using the HAL Browser](https://www.baeldung.com/spring-rest-hal)
 - SWAPI
 - [Testing API interactions with Jest](jest.md)
+
+## Beyond Module 9 
+Once you get forms and ajax requests in your tool belt...spend some time studying this app. Spring Security is great technology to add into your final team project...this app also includes a feature for custom image uploads
+- [Spring Security](https://github.com/AlanKostrick/spring-security-with-uploader) 
+
 
