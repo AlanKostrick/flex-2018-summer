@@ -90,7 +90,6 @@
 - SWAPI
 - [Testing API interactions with Jest](jest.md)
 
-## Tools for Module 7 Project
 
 ## Tools for Module 8 Project
 - [Modal Box example from w3 schools](https://codepen.io/akostrick/pen/dKBQrO)
@@ -101,6 +100,11 @@
 - [Slider from Aarons Demo](https://codepen.io/akostrick/pen/qKeGdV)
 
 
+## Tools for Module 9 Project
+Here are some optional videos to help complete module 9. It is the heaviest of modules and some of the content required on the project was not fully covered in the module. So these videos are a demo example of a review site I had built. Yours will most likely be similar with some minor adjustments potentially.
+- [HTML Forms to add Comments](https://youtu.be/zHUIy6QNn4Q)
+- [Add/Remove Tags with HTML Forms](https://youtu.be/X_OAUhbqauk)
+- [Ajax Requests on Tags]9https://youtu.be/KCxp74Et7T0)
 
 ## Beyond Module 9 
 Once you get forms and ajax requests in your tool belt...spend some time studying this app. Spring Security is great technology to add into your final team project...this app also includes a feature for custom image uploads
