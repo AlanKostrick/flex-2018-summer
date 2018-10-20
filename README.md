@@ -89,6 +89,7 @@
 - [Using the HAL Browser](https://www.baeldung.com/spring-rest-hal)
 - SWAPI
 - [Testing API interactions with Jest](jest.md)
+- Final Project Pitches Announcement!
 
 
 ## Tools for Module 8 Project
