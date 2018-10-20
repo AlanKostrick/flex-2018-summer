@@ -90,6 +90,18 @@
 - SWAPI
 - [Testing API interactions with Jest](jest.md)
 
+## Tools for Module 7 Project
+
+## Tools for Module 8 Project
+- [Modal Box example from w3 schools](https://codepen.io/akostrick/pen/dKBQrO)
+- [JQuery Slideshow](https://codepen.io/akostrick/pen/RJzEbL)
+- [Media Query Hamburger Menu from w3 schools](https://codepen.io/akostrick/pen/vrqvGW)
+- [Toggle Buttons](https://codepen.io/akostrick/pen/ERBGwN)
+- [ClassList Demo](https://codepen.io/akostrick/pen/dKxoJw) A very powerful tool for dynamically adjusting your css 
+- [Slider from Aarons Demo](https://codepen.io/akostrick/pen/qKeGdV)
+
+
+
 ## Beyond Module 9 
 Once you get forms and ajax requests in your tool belt...spend some time studying this app. Spring Security is great technology to add into your final team project...this app also includes a feature for custom image uploads
 - [Spring Security](https://github.com/AlanKostrick/spring-security-with-uploader) 
