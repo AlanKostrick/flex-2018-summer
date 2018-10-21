@@ -109,7 +109,7 @@ Here are some optional videos to help complete module 9. It is the heaviest of m
     - This also demonstrates the use of partial templates (great for single page web apps!)
 
 ## Beyond Module 9 
-Once you get forms and ajax requests in your tool belt...spend some time studying this app. Spring Security is great technology to add into your final team project...this app also includes a feature for custom image uploads
+Some things to look into for final projects or your own pleasures!
 - [Spring Security](https://github.com/AlanKostrick/spring-security-with-uploader) 
 - [Persistent Data Storage Worksheet](https://wecancodeit.github.io/java-resources/data-access/h2/persistent-storage/)
 - [Custom Error Pages](https://www.baeldung.com/spring-boot-custom-error-page)
