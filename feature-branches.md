@@ -18,3 +18,18 @@ merged to master via pull requests.
   - When ready, submit the pull request on git hub
   - A teammate will verify the pull request(pr) and merge to master on git hub
   - Entire team can do a `git pull` to pull these changes into master
+  
+  ## Navigating branches
+  - `git checkout master` allows you to leave a feature branch and go back to master
+  - bash will warn you to  `add and commit` your changes before it will let you leave a branch!
+  - `git checkout branch-name` allows you to move from master or one branch to another...again, bash will make sure all changes
+  are stored before letting you out of a branch
+  
+  ## Tips
+  - Keep it very very simple. No more no less than what is above. There is no need to do any rebasing or to get crazy with the
+  endless commands that googling bash issues could lead you to 
+  - COMMUNICATE COMMUNICATE COMMUNICATE!
+    - Let team members know if you put in a PR
+    - Let team members know when you merged a PR and it is good to pull to master
+    - Work on separate parts of the app...definitely ensure you are in different files to avoid major merge conflicts
+    
