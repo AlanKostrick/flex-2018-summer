@@ -114,7 +114,7 @@ Some things to look into for final projects or your own pleasures!
 - [Persistent Data Storage Worksheet](https://wecancodeit.github.io/java-resources/data-access/h2/persistent-storage/)
 - [Custom Error Pages](https://www.baeldung.com/spring-boot-custom-error-page)
 
-## Code Jam 5
+## Code Jam 6
 - Review site iteration 3 reviews/sharing/questions/comments
 - [JavaScript Fetch Slides](https://wecancodeit.github.io/java-slides/frontend/js-fetch/#/)
 - [Resting Cities App](https://github.com/AlanKostrick/resting-cities)
