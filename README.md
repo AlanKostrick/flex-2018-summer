@@ -121,7 +121,7 @@ Some things to look into for final projects or your own pleasures!
   - We will build out a static page from the json data using fetch 
 - Project Selection and Teams
 - GitHub set up
-- [Feature Branches Guide](tbd)
+- [Feature Branches Guide](feature-branches.md)
 - Trello and Sprint 1
 
 
