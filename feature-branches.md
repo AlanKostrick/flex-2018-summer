@@ -32,4 +32,4 @@ merged to master via pull requests.
     - Let team members know if you put in a PR
     - Let team members know when you merged a PR and it is good to pull to master
     - Work on separate parts of the app...definitely ensure you are in different files to avoid major merge conflicts
-    
+   - And NEVER EVER EVER EVER EVER EVER manually upload anything to the repository on Git Hub, not even a readme 
