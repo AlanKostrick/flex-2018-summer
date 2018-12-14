@@ -1,0 +1,98 @@
+- Windows configuration
+	- set Chrome as default browser
+	- Taskbar
+		- Unpin from taskbar:
+			- Explorer
+			- [Microsoft] Store
+		- Pin to taskbar (after installing in some cases):
+			- Chrome
+			- Git Bash
+			- Eclipse
+			- Sublime Text
+	- File system
+		- Create folders:
+			- `C:\Users\WeCanCodeIT\wcci`
+				- `.\code`
+				- `.\default-workspace`
+	- File Explorer
+		- *View* tab
+			- Enable *File name extensions*
+			- *Options/Change folder and search options*-> *Folder Options/View/Advanced settings*: enable *Display the full path in the tile bar*
+		- Pin to Quick Access:
+			- Windows (C:)
+			- `C:\Users\WeCanCodeIT\wcci\code`
+			- `C:\Users\WeCanCodeIT\wcci\default-workspace`
+
+- Chrome configuration
+	- Turn on *Downloads/Ask where to save each file before downloading*
+
+- Install Java 8 JDK for Windows x64
+
+- Git client + Git Bash
+	- Install, choosing defaults except:
+		- *Select Components*: uncheck the *Git LFS* option
+		- *Adjusting your PATH environment*: choose *Use Git from Git Bash only*
+	- Configure Git Bash via *Options…*:
+		- *Text*: change font size to 12 pt. (Should be `Lucida Console, 12 pt`.)
+		- *Keys*: enable *Ctrl+Shift+letter shortcuts*
+		- *Window*: *Default Size*
+			- *Columns*: 120
+			- *Rows*: 40
+	- Modify Git Bash shortcut (`C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git Bash.lnk`)
+		- *Shortcut* tab
+			- *Target*: remove `--cd-to-home` argument
+			- *Start in*: `C:\Users\WeCanCodeIT\wcci\code`
+			- Be sure to pin shortcut to taskbar *after* these changes
+
+- Eclipse
+	- Eclipse Installer
+		- Download from https://eclipse.org
+		- Launch
+		- Choose *Advanced Mode…* (from the hamburger at the upper right)
+			- *Product*: Select *Eclipse.org/Eclipse Platform*
+			- *Java 1.8+ VM*: Select the JDK (not the JRE)
+			- Click *Next >*, accepting defaults, until the *Variables* dialog is reached
+				- *Root install folder*: "C:\eclipse"
+				- *Installation folder name*: "neon"
+			- Accept defaults on the following screens, finishing installation.
+			- After launch, choose `C:\Users\WeCanCodeIT\wcci\default-workspace` as the workspace directory
+	- Eclipse plugins
+		- *Help > Install New Software…*
+			- *Work with*: "--All Available Sites--"
+			- Wait for plugin list to refresh
+			- Select:
+				- *Eclipse Java Development Tools*
+				- *General Purpose Tools/Marketplace Client*
+				- *Web, …/Eclipse Web Developer Tools*
+			- Continue installation, accepting defaults and accepting licenses
+			- Restart Eclipse when prompted
+		- *Help > Eclipse Marketplace…*
+			- *Search > Find*: "MoreUnit"
+			- *Install*, accepting defaults and accepting licenses
+			- Choose *OK* when prompted with *Security Warning* dialog
+	- Configure perspectives for default workspace
+		- Open the *Java* perspective
+		- Close the *Resource* perspective
+	- Drag `C:\eclipse\neon\eclipse\eclipse.exe` to the taskbar to create a shortcut.
+
+- Gradle
+	- Download `gradle-<version>-all.zip` distribution
+	- Extract to `C:\gradle\<version>`
+	- Add `C:\gradle\<version>\bin` to path
+	- Verify by opening new Git Bash window, running `gradle` 
+
+- Sublime Text 3
+	- Install, checking *Add to explorer context menu*
+	- add `C:\Program Files\Sublime Text 3` to path
+	- Verify by opening new Git Bash window, running `subl`
+
+- lazybones
+	- Download distribution from Bintray
+	- Extract to `C:\lazybones\<version>`
+	- Add `C:\lazybones\<version>\bin` to path
+	- Verify by opening new Git Bash window, running `lazybones` 
+
+- TODOs
+	- Eclipse
+		- turn on line numbers
+		- remove local history limit
